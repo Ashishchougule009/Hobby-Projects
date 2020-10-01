@@ -1,2 +1,2 @@
-# Hobby-Projects
+# Self- Learning Projects
 projects made while learning
